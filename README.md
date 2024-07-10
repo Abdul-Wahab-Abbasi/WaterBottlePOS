@@ -27,3 +27,6 @@ Welcome to the Water Bottle POS System repository! This project is designed to m
 - **Invoice Template Management:**
   - Set and manage invoice templates.
   - Customize invoice layouts and formats.
+
+## License
+This project is licensed under the MIT License.
